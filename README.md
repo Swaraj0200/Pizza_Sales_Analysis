@@ -32,7 +32,7 @@ The dataset offers valuable insights to help improve operations, drive sales, an
 - **Daily Averages**: What are the average number of orders and pizzas sold per day?
 
 ## Summary of Findings
-## Peak Days and Months:
+### Peak Days and Months:
 
 Days: Orders peak on Friday and Saturday evenings.
 Months: January and July record the highest sales.
