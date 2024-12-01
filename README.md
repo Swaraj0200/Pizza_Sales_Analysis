@@ -5,7 +5,7 @@ This project involves an in-depth analysis of a year's worth of sales data from 
 ## Dataset Overview
 The dataset offers valuable insights to help improve operations, drive sales, and enhance the customer experience. Key features of the dataset include:
 
- - **Date and Time**: Each order is timestamped, allowing for analysis of customer behavior and identification of peak hours.
+- **Date and Time**: Each order is timestamped, allowing for analysis of customer behavior and identification of peak hours.
 - **Pizza Details**: Information on pizza types, sizes, quantities, prices, and ingredients provides a comprehensive view of product performance.
 
 
@@ -31,7 +31,7 @@ The dataset offers valuable insights to help improve operations, drive sales, an
 - **Customer Patterns**: How many customers are served daily, and what are the busiest operating hours?
 - **Daily Averages**: What are the average number of orders and pizzas sold per day?
 
-### Summary of Findings
+## Summary of Findings
 ## Peak Days and Months:
 
 Days: Orders peak on Friday and Saturday evenings.
@@ -55,6 +55,6 @@ Busiest Hours:
 Lunch: 12:00 PM - 1:30 PM.
 Dinner: 6:00 PM - 8:00 PM.
 ### Tools and Technologies
-## Microsoft Excel: Data cleaning and preliminary analysis.
-## MySQL: Database management and querying.
-## Power BI: Interactive dashboards and data visualization.
+Microsoft Excel: Data cleaning and preliminary analysis.
+MySQL: Database management and querying.
+Power BI: Interactive dashboards and data visualization.
